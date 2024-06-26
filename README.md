@@ -4,8 +4,9 @@ Welcome to Benjamin coding skill challenge for Flutter engineers.
 
 ## Brief
 
-This challenge is designed to test your  understanding of Flutter widgets,
-state management, asynchronous programming and API integration.
+This repository contains boilerplate Flutter app and a custom TextFormField class
+called `CustomTextFormField`. This challenge is designed to test your 
+understanding of Flutter widgets, state management, asynchronous programming and API integration.
 
 The challenge is split to several different goals described below.
 
