@@ -49,3 +49,5 @@ The challenge is split to several different goals described below.
 
 6. **Keyboard** Improve keyboard visibility functionality e.g. when user taps outside the fields, 
    the keyboard should hide.
+
+7. **Tests** Add tests for your implementation.
